@@ -1,0 +1,48 @@
+{
+    "products": [
+        {
+            "id": 1 ,
+            "nombre": "Ahsoka Tano",
+            "price": "10750",
+            "about": "lorem"
+        },
+        {
+            "id": 2 ,
+            "nombre": "Venom; Marvel's Spider-man 2",
+            "price": "7500",
+            "about": "lorem"
+        },
+        {
+            "id": 3 ,
+            "nombre": "Spider-man (Andrew Garfield); The Amazing Spiderman 2",
+            "price": "3500",
+            "about": "lorem"
+        },
+        {
+            "id": 4 ,
+            "nombre": "The Riddler: The batman by Matt Reeves",
+            "price": "3000",
+            "about": "lorem"
+        },
+        {
+            "id": 5 ,
+            "nombre": "Superman; Man of Steel",
+            "price": "3000",
+            "about": "lorem"
+        },
+        {
+            "id": 6 ,
+            "nombre": "Batman: The Dark Knight / Hot Toys",
+            "price": "3000",
+            "about": "lorem",
+            "picture": "https://i.pinimg.com/474x/b1/61/84/b16184587b5f91df47d102905a731460.jpg"
+        },
+        {
+            "id": 7 ,
+            "nombre": "Joker; the Dark Knight ",
+            "price": "3000",
+            "about": "/assets/hot toys/Batman.jpg"
+        }
+    ]
+
+}
